@@ -20,8 +20,8 @@ O sistema será mais do que apenas uma plataforma para criação de uma loja vir
 - Navegação por coleções, categorias e segmentos
 
 ### Tecnologias
-- Front-end: React
-- Back-end: .Net
+- Front-end: React Native
+- Back-end: Node Typescript
 - Database: PostgreSQL
 
 ### Wireframe: [link aqui](https://www.figma.com/proto/Lhrwxzrhidbpt4GYjM428a/Marketplace?node-id=2%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A3)
